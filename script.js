@@ -75,7 +75,7 @@ let allMachines = [
 
 // First we take value from each input element, then we insert it in coresponding object
 
-handleAddNewPart = function (e) {
+handleAddNewPart = function () {
     let inputName = document.getElementById('inputName').value
     let inputTotalLifetime = document.getElementById('inputTotalLifetime').value
     let inputUsedLifetime = document.getElementById('inputUsedLifetime').value
@@ -189,14 +189,11 @@ allMachines.forEach(obj => {
 
     `
 
-
     //Button which calls function to add new spare part
     let addNewSparePart = document.createElement('button')
     addNewSparePart.classList.add('btn', 'btn-outline-primary')
     addNewSparePart.innerHTML = "Add new Part"
     addNewSparePart.onclick = handleAddNewPart;
-
-
 
 
     //Binding all created elements
