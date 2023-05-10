@@ -1,0 +1,34 @@
+.main-title{
+    color: #ff8400;
+}
+
+.card-container{
+    margin-bottom: 10px;
+}
+.input-area {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.form-group{
+    padding: 5px;
+}
+.btn{
+    margin: 5px;
+}
+.warning{
+    color: #f98100;
+}
+
+b{
+    color: #3dc83d;
+}
+
+.offline{
+    color: #ff0000;
+}
+
+.parts-area{
+    border: 1px solid black;
+    background-color: #d8d8d8;
+}
