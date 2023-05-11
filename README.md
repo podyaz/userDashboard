@@ -8,8 +8,8 @@ After downloading repository simply run index.html file.
 
 Few notes to consider: 
 
-  -  refactory is necesary to some features
+  -  refractory is necessary to some features
   -  lost some initial time understanding the task
-  -  all in all, task was quite fun and i enjoyed working on it
-  -  if i had to do task from the begining i would do it completely in different way and using other technologies
+  -  all in all, the task was quite fun and i enjoyed working on it
+  -  if I had to do task from the beginning I would do it completely in different way and using other technologies
   -  thanks !
